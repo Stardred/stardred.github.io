@@ -1664,10 +1664,10 @@ input, select, textarea {
 	input[type="reset"],
 	button,
 	.button {
-		background-image: url("file:///C|/Users/stard/Desktop/Portfolio/assets/css/images/bg.png") , -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
-		background-image: url("file:///C|/Users/stard/Desktop/Portfolio/assets/css/images/bg.png") , -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
-		background-image: url("file:///C|/Users/stard/Desktop/Portfolio/assets/css/images/bg.png") , -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
-		background-image: url("file:///C|/Users/stard/Desktop/Portfolio/assets/css/images/bg.png") , linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+		background-image: url("/assets/css/images/bg.png") , -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+		background-image: url("/assets/css/images/bg.png") , -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+		background-image: url("/assets/css/images/bg.png") , -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+		background-image: url("/assets/css/images/bg.png") , linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
 		-moz-transition: background-color .2s ease-in-out;
 		-webkit-transition: background-color .2s ease-in-out;
 		-ms-transition: background-color .2s ease-in-out;
@@ -1685,7 +1685,7 @@ input, select, textarea {
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
-		background-color: #43B3E0;
+		background-color: #8A0000;
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
 		max-width: 24em;
@@ -1696,7 +1696,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #43bff0;
+			background-color: #FC8C8C;
 			color: #fff !important;
 		}
 
@@ -1795,10 +1795,10 @@ input, select, textarea {
 			}
 
 				ul.social li a:before {
-					background-image: url("file:///C|/Users/stard/Desktop/Portfolio/assets/css/images/bg.png") , -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
-					background-image: url("file:///C|/Users/stard/Desktop/Portfolio/assets/css/images/bg.png") , -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
-					background-image: url("file:///C|/Users/stard/Desktop/Portfolio/assets/css/images/bg.png") , -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
-					background-image: url("file:///C|/Users/stard/Desktop/Portfolio/assets/css/images/bg.png") , linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+					background-image: url("/assets/css/images/bg.png") , -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+					background-image: url("/assets/css/images/bg.png") , -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+					background-image: url("/assets/css/images/bg.png") , -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+					background-image: url("/assets/css/images/bg.png") , linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
 					-moz-transition: background-color .2s ease-in-out;
 					-webkit-transition: background-color .2s ease-in-out;
 					-ms-transition: background-color .2s ease-in-out;
@@ -1972,7 +1972,7 @@ input, select, textarea {
 		}
 
 		.icon.featured {
-			color: #EA8A95;
+			color: #8A0000;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
@@ -1985,7 +1985,7 @@ input, select, textarea {
 /* Wrappers */
 
 	.wrapper {
-		background-image: url("file:///C|/Users/stard/Desktop/Portfolio/assets/css/images/bg.png");
+		background-image: url("/assets/css/images/bg.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		padding: 8em 0 8em 0;
 		text-align: center;
