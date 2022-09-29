@@ -112,6 +112,13 @@ input, select, textarea {
 		a:hover {
 			color: #43bff0 !important;
 		}
+		a:link {
+  			text-decoration: none;
+	}
+
+		a:visited {
+ 			 text-decoration: none;
+	}
 
 		a img {
 			border: 0;
