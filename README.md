@@ -1,11 +1,12 @@
 # Stardred's Portfolio
 
 This site is a portfolio project with links to previous and current live work and projects.
-https://stardred.github.io/
+### https://stardred.github.io/
 
 ## Introduction
 
 The introduction video was created with a webcam and studio software, converted to .mp4 format and embedded into the page.
+### https://stardred.github.io/#intro
 
 ## Work
 
